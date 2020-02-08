@@ -11,4 +11,7 @@ Projects</br>
 Team</br>
 Progress<br>
 Contact Us And
-Footer
+Footer</br>
+
+#Admin Dashboard</br>
+This is an Abmin Dashboard page design.Most part of this project is build using bootstrap but beside that i used some CSS and very little JQuery.
